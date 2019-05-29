@@ -6,6 +6,7 @@
 # COMMENTS: This script repair uninstall the SCCM Client, Repair the WMI Repository 
 # and Reinstall the SCCM Client, it's basic, but work fine !
 # Don't forget to download WMIRepair and configure the script (see above)
+# PowerShell 3.0 require
 # The WMIRepair.exe require .NET Framework 3.5
 # ================================================================================================
 
