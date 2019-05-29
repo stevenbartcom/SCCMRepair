@@ -2,12 +2,13 @@
 # NAME: SCCMRepair.ps1
 # AUTHOR: Steven Bart, https://stevenbart.com
 #
-# VERSION: 1811.0
+# VERSION: 1905
 # COMMENTS: This script repair uninstall the SCCM Client, Repair the WMI Repository 
 # and Reinstall the SCCM Client, it's basic, but work fine !
 # Don't forget to download WMIRepair and configure the script (see above)
 # PowerShell 3.0 require
 # The WMIRepair.exe require .NET Framework 3.5
+# LICENSE: MIT License
 # ================================================================================================
 
 # Relaunch as an elevated process
